@@ -1,0 +1,6 @@
+c:\users\ellis carvalho\documents\visual studio 2015\Projects\HellsTriangle\HellsTriangle\bin\Debug\HellsTriangle.exe.config
+c:\users\ellis carvalho\documents\visual studio 2015\Projects\HellsTriangle\HellsTriangle\bin\Debug\HellsTriangle.exe
+c:\users\ellis carvalho\documents\visual studio 2015\Projects\HellsTriangle\HellsTriangle\bin\Debug\HellsTriangle.pdb
+c:\users\ellis carvalho\documents\visual studio 2015\Projects\HellsTriangle\HellsTriangle\obj\Debug\HellsTriangle.csprojResolveAssemblyReference.cache
+c:\users\ellis carvalho\documents\visual studio 2015\Projects\HellsTriangle\HellsTriangle\obj\Debug\HellsTriangle.exe
+c:\users\ellis carvalho\documents\visual studio 2015\Projects\HellsTriangle\HellsTriangle\obj\Debug\HellsTriangle.pdb
